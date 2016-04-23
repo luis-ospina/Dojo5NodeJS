@@ -1,0 +1,14 @@
+{
+  "name": "Dojo5NodeJS",
+  "version": "0.0.0",
+  "description": "Dojo 5 de Desarrollo de aplicaciones empresariales para crear un api usando NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "Luis David Ospina",
+  "license": "ISC"
+}
